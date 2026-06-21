@@ -10,8 +10,8 @@
 
 <br>
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Artistbots)
-[![Support Group](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/elevenytsmusic)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/QQHMDQ)
+[![Support Group](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/QQHMDQ)
 
 <br>
 
@@ -331,15 +331,15 @@ python -m Elevenyts
 
 ### SEND SCREENSHOT TO SUPPORT
 
-[![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/Artistbots)
+[![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/QQHMDQ)
 </p>
 
 ---
 
 ### 📢 Telegram Channel 💬 Support Group
 
-- **Telegram Channel**: [Artist bots](https://t.me/Artistbots)
-- **Support Group**: [Elevenyts Music](https://t.me/elevenytsmusic)
+- **Telegram Channel**: [Artist bots](https://t.me/Q_0_R)
+- **Support Group**: [Elevenyts Music](https://t.me/Q_0_R)
 ---
 
 # 🔒 Security Notes
