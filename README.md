@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://files.catbox.moe/zlmv6v.png" width="400">
+<img src="https://files.catbox.moe/g1lqh8.jpg" width="400">
 
 # 🎵 Elevenyts
 
@@ -10,8 +10,8 @@
 
 <br>
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Artistbots)
-[![Support Group](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/elevenytsmusic)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/QQHMDQ)
+[![Support Group](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/QQHMDQ)
 
 <br>
 
@@ -289,13 +289,13 @@ python -m Elevenyts
 ## Music Commands
 
 ```text
-/play
+تشغيل
 /vplay
 /cplay
-/pause
-/resume
-/skip
-/end
+استراحه
+بداء من جديد
+تخطي
+ايقاف
 /queue
 /song
 /lyrics
@@ -331,15 +331,15 @@ python -m Elevenyts
 
 ### SEND SCREENSHOT TO SUPPORT
 
-[![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/Artistbots)
+[![ARTIST](https://files.catbox.moe/g1lqh8.jpg)](https://t.me/Q_O_R)
 </p>
 
 ---
 
-### 📢 Telegram Channel 💬 Support Group
+### 📢 قناة المطور 💬 مطور سورس
 
-- **Telegram Channel**: [Artist bots](https://t.me/Artistbots)
-- **Support Group**: [Elevenyts Music](https://t.me/elevenytsmusic)
+- **Telegram Channel**: [Artist bots](https://t.me/QQHMDQ)
+- **Support Group**: [Elevenyts Music](https://t.me/Q_0_R)
 ---
 
 # 🔒 Security Notes
@@ -378,7 +378,7 @@ python -m Elevenyts
 
 ### Made with ❤️ by Artist
 
-### Powered by ArtistBots
+### Powered by H M D 
 
 ### © 2026 Elevenyts. All Rights Reserved.
 
